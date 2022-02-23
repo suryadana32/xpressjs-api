@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "admin",
+    "database": "help_hb",
+    "host": "159.223.91.222",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "admin",
+    "password": "admin",
+    "database": "help_hb",
+    "host": "159.223.91.222",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "admin",
+    "password": "admin",
+    "database": "help_hb",
+    "host": "159.223.91.222",
+    "dialect": "mysql"
+  }
+}
